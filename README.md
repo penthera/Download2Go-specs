@@ -25,7 +25,7 @@ The SDK offers an extensive range of capabilities.  Check out the Client Develop
 
 This repository is the CocoaPods repository for all Penthera iOS/MacOS SDKs.  In order to use CocoaPods with Penthera's products, please add our repository to your CocoaPods installation by executing the command 'pod repo add Cache-and-Carry-specs https://github.com/penthera/Cache-and-Carry-specs.git'.  For additional documentation on each of our SDKs and for information on how to get started, please reference one of the official SDK repositories listed below.
 
-** Official SDK Locations **
+**Official SDK Locations**
 - [Cache and Carry - iOS](https://github.com/penthera/Cache-and-Carry-ios)
 - [Cache and Carry - MacOS](https://github.com/penthera/Cache-and-Carry-MacOS)
 - [Cache and Carry - Android](https://github.com/penthera/Cache-and-Carry-android)
